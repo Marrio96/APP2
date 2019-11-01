@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ordenamiento</string>
+    <string name="action_settings">color</string>
+    <string name="mensaje">Ingrese número de máximo cuatro digitos</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="title_activity_main2">Resultados</string>
+    <string name="regreso">Regreso</string>
+    <string name="mensaje_ingresado">  ingresado correctamente</string>
+    <string name="numero">Numero   </string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="error">ingrese un numero</string>
+    <string name="ordenamientos">Los números ingresados de forma ordenada son:</string>
+
+</resources>

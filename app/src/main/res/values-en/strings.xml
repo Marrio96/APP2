@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">color</string>
+    <string name="ingresar">input</string>
+    <string name="mensaje">input a number of max  four digit</string>
+    <string name="regreso">back</string>
+    <string name="title_activity_main2">"result "</string>
+    <string name="app_name">order</string>
+    <string name="mensaje_ingresado">aggreegate succesfully</string>
+    <string name="numero">"Number  "</string>
+    <string name="error">please input number</string>
+    <string name="Bienvenido">Welcome</string>
+    <string name="ordenamientos">the numbers input in an orderly  are:</string>
+</resources>
